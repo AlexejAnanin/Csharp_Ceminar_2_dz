@@ -12,7 +12,7 @@ int weekDay = Convert.ToInt32(Console.ReadLine());
 
 if (weekDay > 7 || weekDay < 1)
 {
-    System.Console.WriteLine("Такой день недели не существует");
+    System.Console.WriteLine("Такой день недели не существует!");
 }
 else if (weekDay == 6 || weekDay == 7)
 {
