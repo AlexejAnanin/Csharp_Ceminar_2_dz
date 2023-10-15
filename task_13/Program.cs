@@ -23,4 +23,3 @@ if (number < 100)
            }
            System.Console.WriteLine($"Третья цифра числа:  {number % 10}");
         }
-
